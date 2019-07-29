@@ -1,0 +1,15 @@
+
+"Ok"      = "Okay";
+"Alert"   = "Alert";
+"Retry"   = "Retry";
+"Loading" = "Loading...";
+
+"NetworkError"      = "Network Error";
+"NoInternetError"   = "Please check your internet connection and try again.";
+"DeliveryFailError" = "Problem Fetching Delivery List";
+
+"FetchDeliveries"   = "Fetching Deliveries ...";
+"DeliveryListTitle" = "Things to deliver";
+"MapTitle"          = "Delivery Details";
+"Current Location"  = "Current Location";
+"EmptyTableMessage" = "No Deliveries available, please pull to refresh";
